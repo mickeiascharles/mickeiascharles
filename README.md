@@ -5,6 +5,7 @@ Alcancei experiências com projetos acadêmicos em desenvolver e analisar sistem
 
 <div> 
   <a href="https://www.linkedin.com/in/mickeiascharles/">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=mickeiascharles&show_icons=true&theme=dracula&include_all_commits=true&counnt_private=true"/>
+  <img height="300cm" src="https://github-readme-stats.vercel.app/api?username=mickeiascharles&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickeiascharles&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 -->
