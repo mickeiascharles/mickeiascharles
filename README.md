@@ -13,7 +13,7 @@ Alcancei experiências com projetos acadêmicos em desenvolver e analisar sistem
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickeiascharles&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
     
-Liguaguens de domínio: 
+Liguagens de domínio: 
 <div>  
   <img height="35cm" src="https://img.icons8.com/?size=512&id=40670&format=png"/>
   <img height="35cm" src="https://images.icon-icons.com/2699/PNG/512/java_logo_icon_168609.png"/>
