@@ -5,7 +5,11 @@ Alcancei experiências com projetos acadêmicos em desenvolver e analisar sistem
 
 <div> 
   <a href="https://www.linkedin.com/in/mickeiascharles/">
-  <img height="300cm" src="https://github-readme-stats.vercel.app/api?username=mickeiascharles&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickeiascharles&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=mickeiascharles&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickeiascharles&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
+</div>
+
+<div>
+  <img height="50cm" src="https://images.icon-icons.com/2699/PNG/512/java_logo_icon_168609.png"
 </div>
 -->
