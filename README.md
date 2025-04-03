@@ -14,11 +14,10 @@ Alcancei experiências com projetos acadêmicos em desenvolver e analisar sistem
 </div>
     
 Liguaguens de domínio: 
-<div>
-  <img height="35cm" src="https://images.icon-icons.com/2699/PNG/512/java_logo_icon_168609.png"/>
+<div>  
   <img height="35cm" src="https://img.icons8.com/?size=512&id=40670&format=png"/>
+  <img height="35cm" src="https://images.icon-icons.com/2699/PNG/512/java_logo_icon_168609.png"/>
   <img height="35cm" src="https://img.icons8.com/fluent/200/css3.png"/>
   <img height="35cm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"/>
   <img height="35cm" src="https://img.icons8.com/color/512/javascript.png"/>
-  <img height="35cm" src="https://img.icons8.com/?size=512&id=40670&format=png"/>
 </div>
