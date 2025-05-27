@@ -21,4 +21,5 @@ Liguagens de domínio:
   <img height="35cm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"/>
   <img height="35cm" src="https://img.icons8.com/color/512/javascript.png"/>
   <img height="35cm" src="https://cdn.worldvectorlogo.com/logos/swift-15.svg"/>
+  <img height="35cm" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png"/>
 </div>
