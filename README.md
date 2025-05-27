@@ -1,15 +1,18 @@
 Opa, eu sou o Mickeias Charles!  👋
 
+<div>   
+  <a href="https://mickeiascharles.github.io/portifolio/">
+    Meu site
+</div>
+
 Graduando em ciência da computação pela Universidade Católica de Brasília, sou desenvolvedor júnior. 
 Alcancei experiências com projetos acadêmicos em desenvolver e analisar sistemas na linguagem C, desenvolver em HTML e CSS, desenvolver e analisar sistemas na linguagem JAVA, programar em swift, desenvolver aplicativos em swiftUI e prototipar como UX/UI designer.
 
 <div>
   <a href="https://www.linkedin.com/in/mickeiascharles/">
-  <img height="50cm" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png"/>\
-  <a href="https://mickeiascharles.github.io/portifolio/">
-    Meu site
+  <img height="50cm" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png"/>
 </div>
-    
+        
 <div> 
   <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=mickeiascharles&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickeiascharles&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
