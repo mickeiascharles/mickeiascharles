@@ -5,7 +5,9 @@ Alcancei experiências com projetos acadêmicos em desenvolver e analisar sistem
 
 <div>
   <a href="https://www.linkedin.com/in/mickeiascharles/">
-  <img height="50cm" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png"/>
+  <img height="50cm" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png"/>\
+  <a href="https://mickeiascharles.github.io/portifolio/">
+    Meu site
 </div>
     
 <div> 
