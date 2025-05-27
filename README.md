@@ -11,6 +11,8 @@ Alcancei experiências com projetos acadêmicos em desenvolver e analisar sistem
 <div>
   <a href="https://www.linkedin.com/in/mickeiascharles/">
   <img height="50cm" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png"/>
+  <a href="https://www.instagram.com/mickeiascharles/">
+  <img height="50cm" src="https://i0.wp.com/doutorespalhacos.com.br/wp-content/uploads/2020/03/logo-instagram-png-fundo-transparente.png?fit=696%2C696"/>
 </div>
         
 <div> 
