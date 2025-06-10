@@ -2,8 +2,8 @@
   <img height="80cm" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF71D&width=435&lines=Ol%C3%A1%2C+me+chamo+Mickeias!">
 </div>
 <div>   
-  <a href="https://mickeiascharles.github.io/portifolio/">
-    Meu site
+  <img height="25cm" src="https://img.shields.io/badge/MEU%20SITE-%234AF71DFF?style=flat-square"/>
+  <a href="https://www.instagram.com/mickeiascharles/">
 </div>
 
 Graduando em ciência da computação pela Universidade Católica de Brasília, sou desenvolvedor júnior. 
