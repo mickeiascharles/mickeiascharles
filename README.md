@@ -9,7 +9,7 @@ Alcancei experiências com projetos acadêmicos em desenvolver e analisar sistem
   <img height="25cm" src="https://img.shields.io/badge/MEU%20SITE-%234AF71DFF?style=flat-square"/>
   <a href="https://www.instagram.com/mickeiascharles/">
   <img height="25cm" src="https://img.shields.io/badge/Gmail-red?style=flat-square"/>
-  <a href="mailto:contatomickeias@gmail.com">
+  <a href="https://www.mailto:contatomickeias@gmail.com">
   <img height="25cm" src="https://img.shields.io/badge/Linkedln-blue?style=flat-square"/>
   <a href="https://www.linkedin.com/in/mickeiascharles/">
   <img height="25cm" src="https://img.shields.io/badge/Behance-black?style=flat-square"/>
