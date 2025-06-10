@@ -5,15 +5,15 @@ Graduando em ciência da computação pela Universidade Católica de Brasília, 
 Alcancei experiências com projetos acadêmicos em desenvolver e analisar sistemas na linguagem C, desenvolver em HTML e CSS, desenvolver e analisar sistemas na linguagem JAVA, programar em swift, desenvolver aplicativos em swiftUI e prototipar como UX/UI designer.
 <br><br>
 
-<div>   
-  <img height="25cm" src="https://img.shields.io/badge/Meu%20site-grey?style=flat-square"/>
-  <a href="https://www.instagram.com/mickeiascharles/">
-  <img height="25cm" src="https://img.shields.io/badge/Gmail-red?style=flat-square"/>
-  <a href="https://www.mailto:contatomickeias@gmail.com">
-  <img height="25cm" src="https://img.shields.io/badge/Linkedln-blue?style=flat-square"/>
+<div> 
+  <a href="https://mickeiascharles.github.io/portifolio/">
+  <img height="25cm" src="https://img.shields.io/badge/Meu%20site-grey?style=flat-square"/><a/>
+  <a href="mailto:contatomickeias@gmail.com">
+  <img height="25cm" src="https://img.shields.io/badge/Gmail-red?style=flat-square"/><a/>
   <a href="https://www.linkedin.com/in/mickeiascharles/">
-  <img height="25cm" src="https://img.shields.io/badge/Behance-black?style=flat-square"/>
+  <img height="25cm" src="https://img.shields.io/badge/Linkedln-blue?style=flat-square"/><a/>
   <a href="https://www.behance.net/mickeiascharles">
+  <img height="25cm" src="https://img.shields.io/badge/Behance-black?style=flat-square"/><a/>
 </div>
             
 <div> 
