@@ -16,7 +16,6 @@ Alcancei experiências com projetos acadêmicos em desenvolver e analisar sistem
 </div>
         
 <div> 
-  <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=mickeiascharles&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickeiascharles&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
     
