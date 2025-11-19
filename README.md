@@ -6,7 +6,7 @@ Graduando em ciência da computação pela Universidade Católica de Brasília, 
 
 <div> 
   <a href="https://mickeiascharles.github.io/portifolio/">
-  <img height="25cm" src="https://img.shields.io/badge/Meu%20site-grey?style=flat-square"/><a/>
+  <img height="25cm" src="https://img.shields.io/badge/Portifólio-grey?style=flat-square"/><a/>
   <a href="mailto:contatomickeias@gmail.com">
   <img height="25cm" src="https://img.shields.io/badge/Gmail-red?style=flat-square"/><a/>
   <a href="https://www.linkedin.com/in/mickeiascharles/">
