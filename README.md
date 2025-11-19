@@ -27,8 +27,8 @@ Liguagens de domínio:
   <img height="35cm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"/>
   <img height="35cm" src="https://img.icons8.com/color/512/javascript.png"/>
   <img height="35cm" src="https://cdn.worldvectorlogo.com/logos/swift-15.svg"/>
-  <img height="35cm" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png"/>
-  <img height="35cm" src="https://logos-world.net/wp-content/uploads/2025/07/MySQL-Logo.png"/>
+  <img height="35cm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/330px-Sql_data_base_with_logo.png"/>
+  <img height="35cm" src="https://cdn-icons-png.flaticon.com/256/5968/5968381.png"/>
 </div>
 
 Tecnologias e Ferramentas de domínio:
@@ -40,4 +40,5 @@ Tecnologias e Ferramentas de domínio:
   <img height="35cm" src="https://cdn.worldvectorlogo.com/logos/postman.svg"/>
   <img height="35cm" src="https://images.icon-icons.com/2699/PNG/512/axios_logo_icon_168546.png"/>
   <img height="35cm" src="https://logowik.com/content/uploads/images/express-js1720895493.logowik.com.webp"/>
+  <img height="35cm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angular_gradient_logo.png/1200px-Angular_gradient_logo.png"/>
 </div>
