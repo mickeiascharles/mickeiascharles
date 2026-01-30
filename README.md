@@ -6,7 +6,7 @@
   <img height="300cm" src="https://raw.githubusercontent.com/mickeiascharles/portifolio/refs/heads/main/public/assets/projetos-bd.png"><br><br>
 </div>
     
-`Stacks`
+`Minhas stacks` / `My stacks`
 <div>  
   <img height="35cm" src="https://img.icons8.com/?size=512&id=40670&format=png"/>
   <img height="35cm" src="https://images.icon-icons.com/2699/PNG/512/java_logo_icon_168609.png"/>
@@ -29,6 +29,7 @@
 </div>
 <br>
 
+`Contato` / `Contact`
 <div> 
   <a href="https://mickeiascharles.github.io/portifolio/">
   <img height="25cm" src="https://img.shields.io/badge/Portifólio-grey?style=flat-square"/><a/>
