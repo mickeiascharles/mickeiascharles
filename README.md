@@ -5,6 +5,11 @@
 <div>
   <img height="300cm" src="https://raw.githubusercontent.com/mickeiascharles/portifolio/refs/heads/main/public/assets/projetos-bd.png"><br><br>
 </div>
+
+Sou desenvolvedor full stack. Confira meu portfólio abaixo para conhecer melhor meu trabalho.<br>
+I'm a full stack developer. Check out my portfolio below to learn more about my work.<br>
+<a href="https://mickeiascharles.github.io/portifolio/">
+<img height="25cm" src="https://img.shields.io/badge/Portifólio-grey?style=flat-square"/><a/>
     
 `Minhas stacks` / `My stacks`
 <div>  
@@ -31,8 +36,6 @@
 
 `Contato` / `Contact`
 <div> 
-  <a href="https://mickeiascharles.github.io/portifolio/">
-  <img height="25cm" src="https://img.shields.io/badge/Portifólio-grey?style=flat-square"/><a/>
   <a href="mailto:contatomickeias@gmail.com">
   <img height="25cm" src="https://img.shields.io/badge/Gmail-red?style=flat-square"/><a/>
   <a href="https://www.linkedin.com/in/mickeiascharles/">
