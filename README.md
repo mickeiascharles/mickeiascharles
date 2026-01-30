@@ -14,10 +14,6 @@ Graduando em ciência da computação pela Universidade Católica de Brasília, 
   <a href="https://www.behance.net/mickeiascharles">
   <img height="25cm" src="https://img.shields.io/badge/Behance-black?style=flat-square"/><a/>
 </div>
-            
-<div> 
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickeiascharles&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
-</div>
     
 Liguagens de domínio: 
 <div>  
