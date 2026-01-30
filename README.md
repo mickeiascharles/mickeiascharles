@@ -1,6 +1,6 @@
 <div>
-  <img height="80cm" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+me+chamo+Mickeias!"><br>
-  <img height="25cm" src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+my+name+is+Mickeias!"><br><br>
+  <img height="80cm" src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=D5D6CE&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Mickeias!"><br>
+  <img height="25cm" src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=D5D6CE&width=435&lines=Hello%2C+my+name+is+Mickeias!"><br><br>
 </div>  
 <div>
   <img height="300cm" src="https://raw.githubusercontent.com/mickeiascharles/portifolio/refs/heads/main/public/assets/projetos-bd.png"><br><br>
