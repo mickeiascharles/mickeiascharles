@@ -28,7 +28,6 @@ I'm a full stack developer. Check out my portfolio below to learn more about my 
   <img height="35cm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"/>
   <img height="35cm" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
   <img height="35cm" src="https://cdn.worldvectorlogo.com/logos/postman.svg"/>
-  <img height="35cm" src="https://images.icon-icons.com/2699/PNG/512/axios_logo_icon_168546.png"/>
   <img height="35cm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angular_gradient_logo.png/1200px-Angular_gradient_logo.png"/>
   <img height="35cm" src="https://images.icon-icons.com/2699/PNG/512/framer_logo_icon_169149.png"/>
 </div>
