@@ -8,8 +8,8 @@
 
 Sou desenvolvedor full stack. Confira meu portfólio abaixo para conhecer melhor meu trabalho.<br>
 I'm a full stack developer. Check out my portfolio below to learn more about my work.<br>
-<a href="https://mickeiascharles.github.io/portifolio/">
-<img height="25cm" src="https://img.shields.io/badge/Portifólio-grey?style=flat-square"/><a/>
+<a href="https://mickeiascharles.github.io/portfolio/">
+<img height="25cm" src="https://img.shields.io/badge/Portfólio-grey?style=flat-square"/><a/>
     
 `Minhas stacks` / `My stacks`
 <div>  
