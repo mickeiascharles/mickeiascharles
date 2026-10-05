@@ -6,8 +6,8 @@
   <img height="300cm" src="https://raw.githubusercontent.com/mickeiascharles/portifolio/refs/heads/main/public/assets/projetos-bd.png"><br><br>
 </div>
 
-Sou Desenvolvedor e Arquiteto de Software e Inteligência Artificial, com atuação em IA aplicada e desenvolvimento Full Stack. Confira meu portfólio abaixo para conhecer melhor meu trabalho.<br>
-I’m a Software and Artificial Intelligence Developer and Architect, working across Applied AI and Full Stack Development. Check out my portfolio below to learn more about my work.<br>
+<br>Sou Desenvolvedor e Arquiteto de Software e Inteligência Artificial, com atuação em IA aplicada e desenvolvimento Full Stack. Confira meu portfólio abaixo para conhecer melhor meu trabalho.<br>
+<br>I’m a Software and Artificial Intelligence Developer and Architect, working across Applied AI and Full Stack Development. Check out my portfolio below to learn more about my work.<br>
 <a href="https://mickeiascharles.github.io/portfolio/">
 <img height="25cm" src="https://img.shields.io/badge/Portfólio-grey?style=flat-square"/><a/>
 
